@@ -25,18 +25,15 @@ code {
   justify-content:center;
 }
 
-.search_field {
-  position: absolute;
-  top: 10px;
-  margin: 10px;
-}
-
 #search_text {
-  padding: 10px;
+  margin: auto;
+  padding: 9px;
+  border-radius:5px;
 }
 
 #search_button {
   cursor: pointer;
+  margin-left:10px;
   padding: 10px 20px;
   background-color: #4d90fe;
   border-color: #4d90fe;
@@ -45,7 +42,6 @@ code {
 }
 
 #mount-point {
-  margin-top:30px;
   width: 100%;
 }
 
