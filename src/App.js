@@ -119,7 +119,7 @@ class App extends Component {
               id="search_button"
               onClick={this.handleSearch}
             >
-              <i className="fa fa-search" />
+              <i className="fa fa-search search_icon" />
             </button>
           </form>
         </div>
