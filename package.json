@@ -1,5 +1,5 @@
 {
-  "homepage": "http://venkatpantham.github.io/edyst-s19-weekend-3",
+  "homepage": "https://venkatpantham.github.io/edyst-s19-weekend-3",
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
