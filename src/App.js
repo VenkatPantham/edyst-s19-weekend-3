@@ -50,7 +50,7 @@ class App extends Component {
       }
     };
     if (this.state.updated === false) {
-      baseUrl = "https://api.unsplash.com/photos/curated";
+      baseUrl = "https://api.unsplash.com/photos/random";
       axios.get(baseUrl, options).then(response => {
         if (response) {
           if (options.params.page === 1) {

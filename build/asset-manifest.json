@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unsplash-react-app/static/css/main.c4aac971.chunk.css",
-    "main.js": "/unsplash-react-app/static/js/main.7c8fe9aa.chunk.js",
-    "main.js.map": "/unsplash-react-app/static/js/main.7c8fe9aa.chunk.js.map",
-    "runtime~main.js": "/unsplash-react-app/static/js/runtime~main.196f4d98.js",
-    "runtime~main.js.map": "/unsplash-react-app/static/js/runtime~main.196f4d98.js.map",
-    "static/js/2.129fe62c.chunk.js": "/unsplash-react-app/static/js/2.129fe62c.chunk.js",
-    "static/js/2.129fe62c.chunk.js.map": "/unsplash-react-app/static/js/2.129fe62c.chunk.js.map",
-    "index.html": "/unsplash-react-app/index.html",
-    "precache-manifest.50242c11883ad8f0e5d55b1a8ce7174f.js": "/unsplash-react-app/precache-manifest.50242c11883ad8f0e5d55b1a8ce7174f.js",
-    "service-worker.js": "/unsplash-react-app/service-worker.js",
-    "static/css/main.c4aac971.chunk.css.map": "/unsplash-react-app/static/css/main.c4aac971.chunk.css.map"
+    "main.css": "/edyst-s19-weekend-3/static/css/main.3f92fe38.chunk.css",
+    "main.js": "/edyst-s19-weekend-3/static/js/main.1529fdcf.chunk.js",
+    "main.js.map": "/edyst-s19-weekend-3/static/js/main.1529fdcf.chunk.js.map",
+    "runtime~main.js": "/edyst-s19-weekend-3/static/js/runtime~main.33b0904e.js",
+    "runtime~main.js.map": "/edyst-s19-weekend-3/static/js/runtime~main.33b0904e.js.map",
+    "static/js/2.350ef34c.chunk.js": "/edyst-s19-weekend-3/static/js/2.350ef34c.chunk.js",
+    "static/js/2.350ef34c.chunk.js.map": "/edyst-s19-weekend-3/static/js/2.350ef34c.chunk.js.map",
+    "index.html": "/edyst-s19-weekend-3/index.html",
+    "precache-manifest.f359084bb8767c529f579ff42444fcfd.js": "/edyst-s19-weekend-3/precache-manifest.f359084bb8767c529f579ff42444fcfd.js",
+    "service-worker.js": "/edyst-s19-weekend-3/service-worker.js",
+    "static/css/main.3f92fe38.chunk.css.map": "/edyst-s19-weekend-3/static/css/main.3f92fe38.chunk.css.map"
   }
 }
