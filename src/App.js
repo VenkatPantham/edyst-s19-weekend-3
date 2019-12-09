@@ -50,8 +50,9 @@ class App extends Component {
       }
     };
     if (this.state.updated === false) {
-      baseUrl = "https://api.unsplash.com/photos/random";
+      baseUrl = "https://api.unsplash.com/photos";
       axios.get(baseUrl, options).then(response => {
+        console.log(response);
         if (response) {
           if (options.params.page === 1) {
             var photos = [];
@@ -76,6 +77,7 @@ class App extends Component {
     } else {
       baseUrl = "https://api.unsplash.com/search/photos";
       axios.get(baseUrl, options).then(response => {
+        console.log(response);
         if (response) {
           if (options.params.page === 1) {
             var photos = [];
@@ -104,7 +106,7 @@ class App extends Component {
     this.state.adress = document.getElementById("search_text").value;
     if (this.state.adress) this.state.updated = true;
     else this.state.updated = false;
-    this.state.currentPage=1;
+    this.state.currentPage = 1;
     this.fetchPhotos(1);
     console.log("Button Clicked!");
   };
